@@ -1,0 +1,29 @@
+The python task was completed the .ipynb file and was coded in (and run from) jupyter notebook environment.
+
+It has full functionality, 
+
+	-Reading the csv file 'raw_data.csv'
+
+	-Cleaning and inserting a new column with a variable value based off of data in previous columns
+		-The choices made about the specific methods used to clean the data are described and justified in the comments of the code
+		-Furthermore, there is the inclusion of some commented out code that would be used for a different method
+
+	-Writing the data into a new csv file called 'cleaned_data.csv'
+
+The code relies on a few dependencies, pandas, numpy and sqlite3.
+
+For the SQL task, the python script contains code that creates a local sqlite database called 'table_for_cleaned_data.db'.
+The code to then create a blank table to go into the .db file to hold the csv data is located in data_table.SQL and is called from the python task.
+(I examined the SQL table using DB Browser for SQLite)
+
+Thank you for the opportunity to write this code, please enjoy my work.
+
+     .-""""""-.  
+   .'          '. 
+  /   O      O   \ 
+ :                :
+ |                |  
+ : ',          ,' :
+  \  '-.____.-'  / 
+   '.          .'
+     '-......-'

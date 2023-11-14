@@ -1,0 +1,1001 @@
+﻿id,age,gender,market,I watch tv,I use social media,I use streaming services,I read magazines,I read newspapers
+1,90,Male,United States,No,Yes,Yes,Yes,Yes
+2,28,Female,United States,Yes,Yes,No,Yes,Yes
+3,47,Male,United States,No,Yes,Yes,No,No
+4,76,Female,United States,No,Yes,No,No,No
+5,86,Male,United States,No,No,Yes,No,Yes
+6,87,Male,United States,Yes,Yes,Yes,No,Yes
+7,89,Female,United States,No,No,No,No,Yes
+8,79,Female,United States,Yes,No,Yes,Yes,No
+9,53,Male,United States,Yes,Yes,Yes,Yes,No
+10,59,Male,United States,No,Yes,No,No,No
+11,85,Female,United States,Yes,Yes,Yes,Yes,Yes
+12,31,Male,United States,Yes,No,No,Yes,Yes
+13,75,Female,United States,Yes,No,Yes,Yes,No
+14,70,Male,United States,No,Yes,Yes,Yes,Yes
+15,45,Female,United States,No,No,Yes,No,Yes
+16,70,Male,United States,No,Yes,Yes,No,No
+17,55,Female,United States,No,No,Yes,Yes,No
+18,64,Female,United States,No,No,No,No,Yes
+19,57,Male,United States,No,Yes,Yes,No,Yes
+20,62,Female,United States,Yes,No,Yes,No,No
+21,54,Male,United States,Yes,,,,
+22,72,Female,United States,No,No,No,Yes,Yes
+23,79,Male,United States,No,Yes,No,Yes,Yes
+24,81,Female,United States,No,No,No,No,Yes
+25,28,Male,United States,No,No,Yes,No,No
+26,73,Female,United States,Yes,Yes,No,No,Yes
+27,43,Male,United States,No,No,Yes,Yes,No
+28,29,Female,United States,Yes,Yes,Yes,No,No
+29,44,Male,United States,No,No,Yes,No,No
+30,26,Female,United States,Yes,No,No,No,Yes
+31,71,Male,United States,No,Yes,Yes,No,Yes
+32,36,Female,United States,No,Yes,Yes,No,Yes
+33,69,Male,United States,Yes,Yes,No,No,No
+34,82,Male,United States,No,No,Yes,Yes,Yes
+35,52,Female,United States,Yes,No,Yes,Yes,No
+36,66,Female,United States,Yes,No,No,No,Yes
+37,73,Male,United States,Yes,Yes,Yes,Yes,Yes
+38,48,Male,United States,No,Yes,No,No,Yes
+39,90,Female,United States,Yes,Yes,Yes,No,Yes
+40,24,Male,United States,No,No,Yes,No,No
+41,30,Female,United States,No,No,Yes,No,No
+42,58,Male,United States,No,Yes,Yes,Yes,Yes
+43,27,Female,United States,No,Yes,Yes,Yes,Yes
+44,41,Male,United States,Yes,Yes,No,Yes,Yes
+45,53,Female,United States,Yes,No,Yes,Yes,Yes
+46,85,Female,United States,No,No,No,No,No
+47,37,Male,United States,No,No,No,Yes,No
+48,83,Female,United States,Yes,Yes,No,Yes,No
+49,34,Male,United States,No,Yes,No,No,No
+50,53,Female,United States,No,Yes,Yes,Yes,Yes
+51,72,Male,United States,No,Yes,Yes,No,Yes
+52,30,Female,United States,No,No,No,No,No
+53,83,Male,United States,No,Yes,Yes,No,Yes
+54,60,Female,United States,Yes,Yes,No,No,Yes
+55,81,Male,United States,No,Yes,Yes,Yes,Yes
+56,65,Female,United States,No,No,No,Yes,No
+57,23,Male,United States,Yes,Yes,No,Yes,No
+58,35,Female,United States,Yes,Yes,No,No,No
+59,44,Male,United States,Yes,No,Yes,No,No
+60,21,Female,United States,Yes,Yes,No,Yes,No
+61,67,Male,United States,No,Yes,Yes,No,Yes
+62,54,Male,United States,Yes,No,Yes,Yes,No
+63,70,Female,United States,No,No,Yes,No,Yes
+64,76,Female,United States,Yes,Yes,Yes,Yes,Yes
+65,24,Male,United States,No,No,No,,Yes
+66,19,Male,United States,Yes,No,No,,No
+67,75,Female,United States,No,Yes,Yes,No,Yes
+68,41,Male,United States,Yes,Yes,Yes,Yes,Yes
+69,61,Female,United States,No,No,Yes,No,No
+70,84,Male,United States,No,Yes,Yes,Yes,Yes
+71,43,Female,United States,Yes,Yes,Yes,Yes,No
+72,87,Male,United States,Yes,No,Yes,No,Yes
+73,35,Female,United States,No,Yes,No,Yes,Yes
+74,79,Female,United States,No,No,Yes,Yes,Yes
+75,63,Male,United States,No,Yes,Yes,No,No
+76,41,Female,United States,Yes,No,No,Yes,Yes
+77,47,Male,United States,Yes,No,Yes,No,No
+78,46,Female,United States,No,No,Yes,No,Yes
+79,72,Male,United States,Yes,No,No,Yes,Yes
+80,59,Female,United States,No,No,Yes,Yes,No
+81,52,Male,United States,Yes,No,No,No,Yes
+82,56,Female,United States,Yes,Yes,Yes,No,No
+83,66,Male,United States,No,Yes,Yes,No,Yes
+84,73,Female,United States,Yes,No,Yes,Yes,No
+85,32,Male,United States,Yes,Yes,No,Yes,No
+86,19,Female,United States,Yes,Yes,No,Yes,Yes
+87,85,Male,United States,No,No,Yes,Yes,No
+88,33,Female,United States,Yes,Yes,Yes,No,Yes
+89,82,Male,United States,Yes,No,No,Yes,Yes
+90,55,Male,United States,No,No,Yes,No,No
+91,63,Female,United States,Yes,No,Yes,Yes,Yes
+92,89,Female,United States,No,No,Yes,No,No
+93,81,Male,United States,Yes,No,No,No,No
+94,89,Male,United States,No,Yes,Yes,Yes,Yes
+95,57,Female,United States,Yes,No,No,No,No
+96,30,Male,United States,No,Yes,No,No,No
+97,59,Female,United States,No,No,Yes,No,No
+98,45,,United States,No,No,Yes,No,No
+99,86,Female,United States,No,No,Yes,Yes,No
+100,19,Male,United States,No,No,No,Yes,Yes
+101,60,Female,United States,Yes,Yes,Yes,Yes,Yes
+102,77,Female,United States,Yes,Yes,No,Yes,Yes
+103,25,Male,United States,Yes,Yes,No,No,No
+104,44,Female,United States,Yes,Yes,No,No,No
+105,77,Male,United States,No,Yes,Yes,Yes,No
+106,57,Female,United States,Yes,No,Yes,No,No
+107,90,Male,United States,Yes,Yes,No,No,Yes
+108,54,Female,USA,Yes,No,Yes,No,No
+109,34,Male,United States,No,Yes,No,No,Yes
+110,66,Female,United States,No,Yes,No,No,No
+111,38,Male,United States,No,Yes,Yes,No,Yes
+112,79,Female,United States,No,No,Yes,Yes,Yes
+113,32,Male,United States,No,Yes,Yes,Yes,Yes
+114,80,Female,United States,Yes,Yes,No,No,No
+115,86,Male,United States,No,No,No,No,Yes
+116,77,Female,United States,Yes,No,Yes,No,Yes
+117,90,Male,United States,Yes,No,No,No,Yes
+118,53,Male,United States,Yes,,Yes,Yes,Yes
+119,59,Female,United States,Yes,Yes,No,Yes,Yes
+120,21,Female,United States,Yes,No,No,No,Yes
+121,55,Male,United States,No,No,Yes,No,No
+122,63,Male,United States,Yes,Yes,Yes,Yes,Yes
+123,64,Female,United States,Yes,Yes,No,No,Yes
+124,33,Male,United States,Yes,Yes,No,No,No
+125,32,Female,United States,No,No,Yes,Yes,Yes
+126,75,Male,United States,Yes,Yes,Yes,No,Yes
+127,86,Female,United States,Yes,Yes,No,No,Yes
+128,85,Male,United States,Yes,Yes,Yes,Yes,Yes
+129,71,Female,United States,No,No,No,No,Yes
+130,53,Female,United States,Yes,Yes,Yes,No,Yes
+131,72,Male,United States,Yes,No,No,No,Yes
+132,80,Female,United States,Yes,No,Yes,Yes,Yes
+133,20,Male,United States,Yes,Yes,No,Yes,Yes
+134,73,Female,United States,Yes,No,Yes,Yes,Yes
+135,41,Male,United States,No,Yes,No,No,No
+136,52,Female,United States,Yes,No,Yes,Yes,Yes
+137,69,Male,United States,No,No,Yes,Yes,No
+138,28,Female,United States,Yes,Yes,No,Yes,Yes
+139,36,Male,United States,Yes,No,Yes,Yes,Yes
+140,43,Female,United States,No,Yes,No,No,No
+141,23,Male,United States,Yes,No,No,Yes,No
+142,60,Female,United States,Yes,Yes,Yes,Yes,Yes
+143,62,Male,United States,Yes,Yes,No,Yes,No
+144,39,Female,United States,No,Yes,Yes,Yes,Yes
+145,24,Male,United States,No,No,Yes,Yes,Yes
+146,61,Male,United States,Yes,No,No,Yes,Yes
+147,67,Female,United States,Yes,No,No,Yes,No
+148,30,Female,United States,Yes,Yes,No,Yes,Yes
+149,64,Male,United States,Yes,Yes,Yes,No,No
+150,68,Male,United States,Yes,Yes,No,No,No
+151,19,Female,United States,No,Yes,No,Yes,Yes
+152,71,Male,United States,Yes,No,No,No,Yes
+153,75,Female,United States,No,Yes,No,Yes,No
+154,49,Male,United States,No,Yes,No,Yes,No
+155,50,Female,United States,Yes,No,No,No,No
+156,59,Male,United States,Yes,No,Yes,Yes,No
+157,35,Female,United States,Yes,Yes,No,Yes,Yes
+158,61,Female,United States,No,Yes,No,No,No
+159,63,Male,United States,Yes,No,Yes,No,Yes
+160,45,Female,United States,Yes,No,No,Yes,Yes
+161,51,Male,United States,Yes,No,No,No,Yes
+162,64,Female,United States,Yes,No,Yes,Yes,No
+163,20,Male,United States,Yes,No,Yes,No,Yes
+164,43,Female,United States,Yes,No,Yes,No,Yes
+165,41,Male,United States,No,No,No,Yes,No
+166,77,Female,United States,No,Yes,No,Yes,No
+167,44,Male,United States,Yes,No,Yes,Yes,No
+168,90,Female,United States,Yes,Yes,No,No,No
+169,89,Male,United States,Yes,No,Yes,Yes,No
+170,72,Female,United States,Yes,No,No,Yes,Yes
+171,69,Male,United States,Yes,No,Yes,No,Yes
+172,22,Female,United States,No,No,No,No,Yes
+173,62,Male,United States,Yes,No,Yes,No,No
+174,47,Male,United States,No,Yes,Yes,No,Yes
+175,55,Female,United States,No,Yes,Yes,Yes,No
+176,67,Female,United States,No,Yes,No,No,Yes
+177,82,Male,United States,No,No,No,No,No
+178,,Male,United States,Yes,No,Yes,No,No
+179,84,Female,United States,Yes,No,Yes,No,Yes
+180,79,Male,United States,No,Yes,Yes,Yes,Yes
+181,69,Female,United States,No,No,No,Yes,Yes
+182,69,Male,United States,No,No,No,Yes,Yes
+183,43,Female,United States,No,Yes,No,No,Yes
+184,20,Male,United States,Yes,No,No,Yes,Yes
+185,35,Female,United States,Yes,Yes,No,Yes,No
+186,18,Female,United States,No,No,No,No,No
+187,72,Male,United States,Yes,Yes,Yes,No,Yes
+188,47,Female,United States,Yes,Yes,No,Yes,Yes
+189,53,Male,United States,Yes,No,Yes,No,Yes
+190,47,Female,United States,No,No,No,Yes,Yes
+191,42,Male,United States,Yes,Yes,No,Yes,No
+192,58,Female,United States,Yes,Yes,No,No,Yes
+193,61,Male,United States,No,No,No,Yes,No
+194,57,Female,United States,Yes,Yes,No,Yes,Yes
+195,35,Male,United States,Yes,Yes,No,No,Yes
+196,70,Female,United States,No,No,Yes,No,No
+197,40,Male,United States,No,No,No,Yes,Yes
+198,71,Female,United States,Yes,No,Yes,Yes,No
+199,89,Male,United States,Yes,Yes,No,No,No
+200,54,Female,United States,No,Yes,Yes,No,No
+201,62,Male,United States,Yes,Yes,No,Yes,Yes
+202,70,Male,United States,Yes,No,Yes,Yes,No
+203,46,Female,United States,No,Yes,Yes,Yes,No
+204,44,Female,United States,No,No,No,No,No
+205,18,Male,United States,No,Yes,Yes,Yes,No
+206,87,Male,United States,Yes,Yes,Yes,Yes,Yes
+207,30,Female,United States,Yes,No,No,No,Yes
+208,30,Male,United States,Yes,No,No,Yes,No
+209,41,Female,United States,No,Yes,No,No,Yes
+210,88,Male,United States,No,Yes,No,No,Yes
+211,89,Female,United States,No,No,No,No,No
+212,60,Male,United States,No,Yes,No,Yes,No
+213,64,Female,United States,Yes,Yes,No,No,No
+214,28,Female,United States,No,No,No,No,Yes
+215,80,Male,United States,Yes,No,Yes,No,Yes
+216,36,Female,United States,No,Yes,Yes,Yes,No
+217,28,Male,United States,No,Yes,No,Yes,No
+218,44,Female,United States,Yes,Yes,Yes,No,Yes
+219,48,Male,United States,Yes,No,Yes,Yes,No
+220,88,Female,United States,No,Yes,No,No,No
+221,54,Male,United States,Yes,No,Yes,Yes,Yes
+222,73,Female,United States,Yes,No,Yes,Yes,Yes
+223,66,Male,United States,No,No,No,Yes,No
+224,28,Female,United States,Yes,No,Yes,Yes,No
+225,50,,United States,Yes,Yes,No,No,No
+226,18,Female,United States,Yes,Yes,No,Yes,No
+227,27,Male,United States,Yes,Yes,Yes,No,Yes
+228,50,Female,United States,Yes,Yes,Yes,No,Yes
+229,71,Male,United States,No,Yes,Yes,Yes,No
+230,61,Male,United States,No,Yes,No,Yes,Yes
+231,22,Female,United States,No,No,Yes,Yes,No
+232,43,Female,United States,Yes,No,No,Yes,No
+233,31,Male,United States,No,No,No,Yes,No
+234,32,Male,United States,No,No,Yes,Yes,No
+235,40,Female,United States,No,No,Yes,Yes,Yes
+236,89,Male,United States,Yes,No,No,Yes,Yes
+237,47,Female,United States,No,Yes,Yes,Yes,Yes
+238,26,Male,United States,Yes,No,No,Yes,Yes
+239,36,Female,United States,Yes,Yes,Yes,Yes,Yes
+240,58,Male,United States,No,Yes,Yes,Yes,No
+241,45,Female,United States,No,No,No,No,No
+242,18,Female,United States,No,Yes,Yes,Yes,No
+243,22,Male,United States,Yes,Yes,Yes,No,Yes
+244,88,Female,United States,No,Yes,No,Yes,Yes
+245,87,Male,United States,No,No,Yes,No,No
+246,63,Female,United States,No,No,No,Yes,Yes
+247,58,Male,United States,Yes,No,No,Yes,Yes
+248,28,Female,United States,Yes,No,No,Yes,No
+249,85,Male,United States,No,No,Yes,No,No
+250,88,Female,United States,Yes,No,Yes,Yes,Yes
+251,74,Male,United States,Yes,Yes,Yes,No,Yes
+252,39,Female,United States,Yes,No,No,Yes,No
+253,78,Male,United States,No,Yes,Yes,Yes,Yes
+254,67,Female,United States,No,No,Yes,No,Yes
+255,75,Male,United States,Yes,No,No,No,Yes
+256,53,Female,United States,Yes,No,No,No,No
+257,22,Male,United States,Yes,No,Yes,No,Yes
+258,39,Male,United States,Yes,No,No,Yes,No
+259,85,Female,United States,Yes,Yes,Yes,Yes,No
+260,85,Female,United States,No,Yes,Yes,No,Yes
+261,44,Male,United States,Yes,Yes,No,Yes,Yes
+262,25,Male,United States,No,No,Yes,Yes,No
+263,74,Female,United States,Yes,Yes,No,Yes,Yes
+264,85,Male,United States,No,Yes,No,No,Yes
+265,86,Female,United States,No,Yes,No,Yes,Yes
+266,35,Male,United States,No,Yes,No,No,Yes
+267,69,Female,United States,Yes,No,Yes,Yes,Yes
+268,24,Male,United States,No,Yes,Yes,Yes,No
+269,28,Female,United States,Yes,Yes,Yes,Yes,No
+270,74,Female,United States,No,Yes,Yes,Yes,Yes
+271,51,Male,United States,No,Yes,No,Yes,No
+272,32,Female,United States,No,No,Yes,Yes,Yes
+273,59,Male,United States,Yes,Yes,Yes,Yes,No
+274,28,Female,United States,No,Yes,No,No,No
+275,35,Male,United States,No,No,No,Yes,Yes
+276,19,Female,United States,No,Yes,No,No,No
+277,57,Male,United States,No,No,Yes,No,No
+278,45,Female,United States,No,Yes,Yes,No,Yes
+279,53,Male,United States,No,Yes,Yes,No,Yes
+280,34,Female,United States,Yes,No,No,Yes,No
+281,85,Male,United States,Yes,Yes,No,No,Yes
+282,71,Female,United States,Yes,No,No,No,No
+283,42,Male,United States,Yes,Yes,Yes,No,Yes
+284,44,Female,United States,Yes,Yes,Yes,No,Yes
+285,41,Male,United States,Yes,Yes,No,Yes,No
+286,87,Male,United States,Yes,Yes,No,Yes,Yes
+287,59,Female,United States,Yes,No,Yes,Yes,Yes
+288,71,Female,United States,No,Yes,No,No,No
+289,86,Male,United States,Yes,Yes,No,Yes,No
+290,30,Male,United States,No,No,No,No,Yes
+291,57,Female,United States,No,No,Yes,Yes,Yes
+292,50,Male,United States,Yes,Yes,Yes,Yes,Yes
+293,47,Female,United States,No,Yes,Yes,No,No
+294,52,Male,United States,Yes,No,Yes,No,No
+295,32,Female,United States,No,No,No,Yes,No
+296,81,Male,United States,Yes,Yes,No,Yes,No
+297,33,Female,United States,Yes,No,Yes,No,Yes
+298,61,Female,United States,Yes,Yes,No,Yes,Yes
+299,43,Male,United States,No,Yes,No,Yes,Yes
+300,27,Female,United States,No,Yes,No,Yes,Yes
+301,20,Male,United States,No,Yes,Yes,Yes,No
+302,41,Female,United States,No,No,Yes,No,No
+303,67,Male,United States,Yes,No,Yes,No,No
+304,20,Female,United States,No,Yes,Yes,No,No
+305,52,Male,United States,No,No,Yes,Yes,No
+306,53,Female,United States,Yes,No,No,No,Yes
+307,50,Male,United States,Yes,Yes,No,Yes,No
+308,18,Female,United States,Yes,Yes,No,No,Yes
+309,29,Male,United States,No,Yes,No,No,No
+310,83,Female,United States,Yes,No,No,Yes,No
+311,51,Male,United States,Yes,Yes,No,Yes,No
+312,78,Female,United States,No,Yes,No,No,No
+313,87,Male,USA,Yes,Yes,No,Yes,No
+314,64,Male,United States,Yes,Yes,No,Yes,No
+315,55,Female,United States,Yes,Yes,Yes,No,No
+316,69,Female,United States,Yes,No,Yes,No,Yes
+317,54,Male,United States,Yes,No,Yes,Yes,No
+318,75,Male,United States,Yes,Yes,No,No,No
+319,42,Female,United States,No,Yes,Yes,No,Yes
+320,27,Male,United States,No,Yes,Yes,Yes,Yes
+321,83,Female,United States,No,Yes,Yes,No,No
+322,55,Male,United States,No,Yes,Yes,No,No
+323,29,Female,United States,No,No,Yes,Yes,No
+324,76,Male,United States,Yes,Yes,Yes,Yes,Yes
+325,81,Female,United States,No,Yes,No,Yes,No
+326,41,Female,United States,No,No,No,Yes,Yes
+327,18,Male,United States,No,No,No,Yes,Yes
+328,35,Female,United States,No,Yes,No,No,Yes
+329,73,Male,United States,No,Yes,Yes,No,Yes
+330,29,Female,United States,No,No,No,Yes,No
+331,40,Male,United States,Yes,No,Yes,Yes,Yes
+332,42,Female,United States,No,Yes,No,Yes,Yes
+333,25,Male,United States,Yes,Yes,No,Yes,No
+334,51,Female,United States,No,No,No,No,Yes
+335,51,Female,United States,No,No,No,No,Yes
+336,51,Female,United States,No,No,No,No,Yes
+337,51,Female,United States,No,No,No,No,Yes
+338,51,Female,United States,No,No,No,No,Yes
+339,51,Female,United States,No,No,No,No,Yes
+340,52,Female,United States,No,No,Yes,No,No
+341,81,Male,United States,No,No,No,Yes,No
+342,57,Male,United States,Yes,Yes,No,No,Yes
+343,31,Female,United States,No,No,Yes,No,No
+344,67,Female,United States,Yes,No,Yes,Yes,Yes
+345,81,Male,United States,No,No,No,No,Yes
+346,19,Male,United States,Yes,Yes,Yes,No,Yes
+347,32,Female,United States,No,Yes,No,Yes,Yes
+348,48,Male,United States,No,No,No,Yes,No
+349,82,Female,United States,No,No,Yes,Yes,No
+350,66,Male,United States,Yes,No,Yes,No,Yes
+351,79,Female,United States,Yes,Yes,No,No,No
+352,58,Male,United States,Yes,No,No,No,No
+353,41,Female,United States,No,Yes,Yes,Yes,Yes
+354,75,Female,United States,Yes,No,No,Yes,Yes
+355,74,Male,United States,Yes,Yes,No,Yes,Yes
+356,79,Female,United States,No,No,No,Yes,Yes
+357,39,Male,United States,Yes,Yes,Yes,Yes,No
+358,42,Female,United States,No,Yes,No,No,Yes
+359,33,Male,United States,No,Yes,Yes,No,No
+360,62,Female,United States,No,No,No,No,No
+361,,Male,United States,No,Yes,Yes,No,Yes
+362,30,Female,United States,Yes,No,No,Yes,Yes
+363,62,Male,United States,Yes,No,No,Yes,No
+364,48,Female,United States,Yes,Yes,No,No,Yes
+365,27,Male,United States,No,Yes,No,No,Yes
+366,38,Female,United States,No,No,No,No,Yes
+367,42,Male,United States,Yes,Yes,No,Yes,No
+368,28,Female,United States,Yes,No,Yes,No,No
+369,26,Male,United States,No,No,Yes,Yes,Yes
+370,64,Male,United States,No,Yes,Yes,Yes,No
+371,31,Female,United States,No,No,No,No,Yes
+372,64,Female,United States,Yes,No,No,No,Yes
+373,29,Male,United States,Yes,Yes,Yes,Yes,No
+374,72,Male,United States,Yes,Yes,No,No,No
+375,55,Female,United States,No,No,No,Yes,Yes
+376,79,Male,United States,No,Yes,No,No,No
+377,26,Female,United States,Yes,No,Yes,Yes,Yes
+378,83,Male,United States,No,No,Yes,Yes,No
+379,71,Female,United States,No,No,Yes,No,No
+380,52,Male,United States,No,Yes,Yes,Yes,No
+381,47,Female,United States,No,Yes,No,Yes,Yes
+382,19,Female,United States,No,No,Yes,No,Yes
+383,69,Male,United States,Yes,No,Yes,No,Yes
+384,86,Female,United States,Yes,Yes,No,Yes,No
+385,75,Male,United States,Yes,No,Yes,Yes,Yes
+386,49,Female,United States,Yes,Yes,No,Yes,No
+387,72,Male,United States,No,Yes,Yes,No,No
+388,38,Female,United States,Yes,Yes,No,Yes,Yes
+389,42,Male,United States,No,No,No,Yes,Yes
+390,88,Female,United States,No,Yes,No,Yes,Yes
+391,78,Male,United States,Yes,Yes,No,Yes,Yes
+392,83,Female,United States,No,No,Yes,Yes,Yes
+393,50,Male,United States,Yes,Yes,Yes,Yes,No
+394,88,Female,United States,No,Yes,Yes,Yes,Yes
+395,67,Male,United States,No,No,Yes,No,Yes
+396,73,Female,United States,No,No,No,No,No
+397,30,Male,United States,No,Yes,Yes,Yes,Yes
+398,19,Male,United States,No,Yes,No,No,Yes
+399,76,Female,United States,Yes,No,No,No,Yes
+400,79,Female,United States,No,No,Yes,No,No
+401,63,Male,United States,No,Yes,No,Yes,No
+402,69,Male,United States,No,No,No,No,No
+403,44,Female,United States,Yes,Yes,No,Yes,Yes
+404,45,Male,United States,Yes,No,Yes,No,No
+405,75,Female,United States,No,Yes,No,No,No
+406,50,Male,United States,No,No,No,Yes,No
+407,67,Female,United States,Yes,Yes,No,No,No
+408,48,Male,United States,Yes,Yes,No,Yes,No
+409,51,Female,United States,Yes,No,No,Yes,Yes
+410,24,Female,United States,No,No,Yes,Yes,No
+411,66,Male,United States,Yes,No,Yes,No,No
+412,26,Female,United States,Yes,No,Yes,No,Yes
+413,56,Male,United States,Yes,No,No,Yes,Yes
+414,55,Female,United States,No,No,No,Yes,No
+415,37,Male,United States,Yes,Yes,Yes,Yes,No
+416,42,Female,United States,No,Yes,Yes,No,Yes
+417,64,Male,United States,Yes,Yes,No,Yes,Yes
+418,38,Female,United States,Yes,No,No,Yes,No
+419,84,Male,United States,Yes,Yes,Yes,Yes,Yes
+420,31,Female,United States,No,No,No,Yes,Yes
+421,48,Male,United States,No,No,Yes,No,No
+422,27,Female,United States,Yes,No,Yes,Yes,Yes
+423,35,Male,United States,Yes,Yes,No,Yes,Yes
+424,42,Female,United States,Yes,Yes,No,Yes,Yes
+425,69,Male,United States,Yes,No,No,No,Yes
+426,77,Male,United States,No,Yes,Yes,Yes,No
+427,42,Female,United States,No,No,No,No,Yes
+428,69,Female,United States,Yes,No,No,Yes,Yes
+429,44,Male,United States,No,Yes,No,Yes,Yes
+430,86,Male,United States,No,No,Yes,No,No
+431,71,Female,United States,No,No,No,No,No
+432,36,Male,United States,No,No,No,No,No
+433,42,Female,United States,No,Yes,No,No,No
+434,80,Male,United States,Yes,Yes,No,Yes,Yes
+435,71,Female,United States,No,Yes,Yes,No,Yes
+436,54,Male,United States,No,No,No,No,No
+437,75,Female,United States,Yes,Yes,Yes,No,Yes
+438,45,Female,United States,Yes,Yes,No,Yes,Yes
+439,73,Male,United States,No,Yes,No,No,Yes
+440,27,Female,United States,No,Yes,Yes,Yes,No
+441,28,Male,United States,Yes,Yes,Yes,Yes,No
+442,52,Female,United States,Yes,Yes,Yes,Yes,Yes
+443,57,Male,United States,Yes,No,No,Yes,No
+444,60,Female,United States,Yes,Yes,Yes,No,Yes
+445,73,Male,United States,No,Yes,No,No,No
+446,69,Female,United States,No,Yes,Yes,No,No
+447,88,Male,United States,No,Yes,Yes,Yes,No
+448,20,Female,United States,No,No,No,Yes,No
+449,24,Male,United States,Yes,Yes,Yes,Yes,Yes
+450,56,Female,United States,Yes,No,No,Yes,Yes
+451,44,Male,United States,Yes,No,No,No,No
+452,76,Female,United States,No,No,No,No,Yes
+453,29,Male,United States,No,Yes,Yes,Yes,Yes
+454,68,Male,United States,No,Yes,No,Yes,Yes
+455,78,Female,United States,No,No,Yes,Yes,Yes
+456,39,Female,United States,Yes,Yes,Yes,Yes,Yes
+457,25,Male,United States,No,Yes,Yes,No,Yes
+458,80,Male,United States,Yes,Yes,No,No,No
+459,54,Female,United States,Yes,No,Yes,Yes,Yes
+460,50,Male,United States,No,Yes,Yes,No,No
+461,89,Female,USA,Yes,Yes,Yes,Yes,No
+462,43,Male,United States,Yes,Yes,No,No,No
+463,53,Female,United States,Yes,No,No,No,Yes
+464,67,Male,United States,Yes,No,No,No,Yes
+465,80,Female,United States,No,No,Yes,No,No
+466,51,Female,United States,No,No,No,No,No
+467,73,Male,United States,Yes,No,No,Yes,Yes
+468,19,Female,United States,No,Yes,Yes,Yes,No
+469,,Male,United States,No,Yes,Yes,No,Yes
+470,34,Female,United States,Yes,Yes,No,No,Yes
+471,59,Male,United States,No,No,No,Yes,Yes
+472,70,Female,United States,No,Yes,No,Yes,Yes
+473,60,Male,United States,No,Yes,No,No,No
+474,36,Female,United States,Yes,Yes,Yes,Yes,No
+475,71,Male,United States,Yes,No,Yes,No,Yes
+476,23,Female,United States,Yes,Yes,Yes,No,No
+477,70,Male,United States,Yes,No,Yes,No,Yes
+478,37,Female,United States,Yes,Yes,Yes,,Yes
+479,31,Male,United States,Yes,Yes,No,No,Yes
+480,31,Female,United States,No,,No,No,Yes
+481,18,Male,United States,Yes,Yes,Yes,Yes,Yes
+482,42,Male,United States,No,Yes,Yes,No,No
+483,74,Female,United States,Yes,No,No,Yes,Yes
+484,36,Female,United States,Yes,No,Yes,No,Yes
+485,37,Male,United States,Yes,No,Yes,No,No
+486,44,Male,United States,No,Yes,No,Yes,No
+487,41,Female,United States,No,Yes,Yes,Yes,Yes
+488,20,Male,United States,Yes,Yes,Yes,Yes,No
+489,37,Female,United States,No,No,Yes,Yes,Yes
+490,59,Male,United States,Yes,Yes,No,No,Yes
+491,58,Female,United States,No,,No,No,Yes
+492,27,Male,United States,No,No,Yes,Yes,No
+493,27,Female,United States,Yes,Yes,Yes,Yes,No
+494,68,Female,United States,No,Yes,Yes,Yes,Yes
+495,84,Male,United States,No,No,Yes,No,No
+496,24,Female,United States,No,No,No,No,No
+497,64,Male,United States,Yes,Yes,No,Yes,No
+498,26,Female,United States,Yes,Yes,Yes,Yes,Yes
+499,54,Male,United States,No,Yes,No,No,Yes
+500,27,Female,United States,No,Yes,Yes,Yes,Yes
+501,79,Male,UK,No,Yes,Yes,Yes,No
+502,28,Female,UK,No,No,No,No,No
+503,83,Male,UK,Yes,No,Yes,No,Yes
+504,84,Female,UK,No,Yes,Yes,No,No
+505,73,Male,UK,Yes,Yes,Yes,Yes,Yes
+506,80,Female,UK,No,No,No,No,No
+507,51,Male,UK,Yes,No,No,No,No
+508,64,Female,UK,Yes,Yes,No,Yes,No
+509,81,Male,UK,No,Yes,Yes,Yes,No
+510,70,Male,UK,Yes,Yes,Yes,No,No
+511,38,Female,UK,Yes,No,No,Yes,No
+512,54,Female,UK,No,Yes,No,No,Yes
+513,47,Male,UK,Yes,No,Yes,Yes,No
+514,63,Male,UK,Yes,Yes,No,Yes,Yes
+515,20,Female,UK,Yes,No,No,No,Yes
+516,39,Male,UK,Yes,Yes,No,Yes,Yes
+517,80,Female,UK,No,Yes,Yes,Yes,No
+518,45,Male,UK,No,No,Yes,Yes,Yes
+519,31,Female,UK,No,Yes,Yes,Yes,No
+520,86,Male,UK,No,No,Yes,Yes,Yes
+521,31,Female,UK,Yes,No,Yes,No,Yes
+522,58,Female,UK,No,No,No,No,Yes
+523,64,Male,UK,Yes,No,Yes,No,No
+524,53,Female,UK,No,Yes,No,Yes,No
+525,82,Male,UK,Yes,No,Yes,Yes,No
+526,72,Female,UK,No,No,Yes,Yes,No
+527,53,Male,UK,Yes,Yes,No,No,No
+528,58,Female,UK,No,Yes,Yes,Yes,Yes
+529,87,Male,UK,Yes,Yes,Yes,Yes,No
+530,38,Female,UK,Yes,Yes,No,Yes,Yes
+531,35,Male,UK,Yes,No,No,Yes,Yes
+532,81,Female,UK,Yes,No,Yes,Yes,No
+533,29,Male,UK,No,Yes,No,No,Yes
+534,82,Female,UK,Yes,Yes,No,Yes,No
+535,29,Male,UK,Yes,No,Yes,Yes,Yes
+536,26,Female,UK,Yes,No,Yes,Yes,No
+537,76,Male,UK,Yes,Yes,Yes,No,No
+538,44,Male,UK,No,Yes,Yes,Yes,No
+539,73,Female,UK,Yes,No,Yes,No,No
+540,27,Female,UK,Yes,Yes,No,No,No
+541,84,Male,UK,Yes,Yes,No,Yes,No
+542,82,Male,UK,No,Yes,Yes,Yes,No
+543,42,Female,UK,No,Yes,No,Yes,No
+544,,Male,UK,Yes,Yes,Yes,No,No
+545,31,Female,UK,Yes,Yes,No,No,Yes
+546,20,Male,UK,No,Yes,Yes,Yes,No
+547,59,Female,UK,No,Yes,No,No,Yes
+548,90,Male,UK,No,No,No,Yes,Yes
+549,37,Female,UK,Yes,No,No,Yes,No
+550,47,Female,UK,Yes,Yes,No,Yes,No
+551,89,Male,UK,Yes,No,No,Yes,No
+552,26,Female,UK,No,Yes,Yes,No,Yes
+553,62,Male,UK,Yes,Yes,No,No,Yes
+554,19,Female,UK,Yes,Yes,No,Yes,No
+555,54,Male,UK,No,Yes,No,No,No
+556,47,Female,UK,Yes,No,No,No,No
+557,82,Male,UK,No,Yes,No,No,No
+558,25,Female,UK,Yes,Yes,No,Yes,No
+559,43,Male,UK,Yes,Yes,No,Yes,Yes
+560,27,Female,UK,No,No,No,No,No
+561,60,Male,UK,Yes,No,No,Yes,Yes
+562,77,Female,UK,No,Yes,Yes,No,Yes
+563,89,Male,UK,No,Yes,Yes,No,Yes
+564,84,Female,United Kingdom,Yes,Yes,Yes,No,Yes
+565,35,Male,UK,Yes,No,No,Yes,Yes
+566,70,Male,UK,No,No,No,Yes,No
+567,28,Female,UK,Yes,No,No,No,No
+568,60,Female,UK,No,No,No,No,Yes
+569,23,Male,UK,No,Yes,Yes,No,Yes
+570,20,Male,UK,No,No,No,No,Yes
+571,90,Female,UK,Yes,Yes,Yes,Yes,Yes
+572,82,Male,UK,No,Yes,Yes,Yes,No
+573,74,Female,UK,No,No,No,No,No
+574,61,Male,UK,Yes,No,Yes,No,No
+575,59,Female,UK,Yes,Yes,No,No,Yes
+576,61,Male,UK,No,No,Yes,Yes,Yes
+577,20,Female,UK,No,Yes,Yes,Yes,No
+578,28,Female,UK,Yes,No,No,No,Yes
+579,86,Male,UK,No,No,Yes,Yes,Yes
+580,78,Female,UK,Yes,No,Yes,No,Yes
+581,23,Male,UK,No,Yes,No,Yes,Yes
+582,19,Female,UK,Yes,Yes,No,No,Yes
+583,68,Male,UK,No,Yes,No,Yes,Yes
+584,78,Female,UK,No,No,Yes,Yes,No
+585,83,Male,UK,No,No,Yes,No,No
+586,24,Female,UK,No,Yes,No,No,No
+587,41,Male,UK,Yes,No,Yes,No,No
+588,77,Female,UK,No,Yes,No,Yes,Yes
+589,53,Male,UK,No,Yes,No,No,Yes
+590,53,Female,UK,Yes,Yes,Yes,Yes,Yes
+591,67,Male,UK,No,No,Yes,No,Yes
+592,69,Female,UK,No,Yes,No,Yes,No
+593,83,Male,UK,Yes,Yes,No,Yes,Yes
+594,30,Male,UK,No,Yes,No,No,Yes
+595,29,Female,UK,Yes,No,Yes,Yes,Yes
+596,64,Female,UK,Yes,Yes,Yes,No,Yes
+597,85,Male,UK,Yes,Yes,Yes,Yes,No
+598,86,Male,UK,Yes,Yes,Yes,Yes,No
+599,43,Female,UK,No,No,No,Yes,Yes
+600,18,Male,UK,Yes,No,No,Yes,Yes
+601,53,Female,UK,No,No,Yes,No,Yes
+602,54,Male,UK,Yes,No,No,No,Yes
+603,72,Female,UK,No,Yes,Yes,No,Yes
+604,22,Male,UK,Yes,No,No,No,Yes
+605,27,Female,UK,Yes,No,Yes,No,Yes
+606,61,Female,UK,No,Yes,No,No,Yes
+607,39,Male,UK,Yes,Yes,Yes,Yes,No
+608,24,Female,UK,Yes,Yes,Yes,Yes,No
+609,28,Male,UK,No,No,No,Yes,No
+610,57,Female,UK,No,Yes,No,Yes,No
+611,41,Male,UK,Yes,No,No,No,Yes
+612,27,Female,UK,Yes,No,No,No,No
+613,87,Male,UK,Yes,No,No,No,Yes
+614,43,Female,UK,Yes,Yes,No,Yes,No
+615,22,Male,UK,Yes,Yes,No,No,No
+616,47,Female,UK,No,Yes,No,Yes,Yes
+617,22,Male,UK,No,Yes,Yes,Yes,Yes
+618,59,Female,UK,Yes,No,No,No,Yes
+619,50,Male,UK,No,No,Yes,Yes,Yes
+620,30,Female,UK,No,No,No,Yes,Yes
+621,18,Male,UK,No,Yes,Yes,No,Yes
+622,28,Male,UK,No,No,No,Yes,Yes
+623,23,Female,UK,Yes,No,No,Yes,No
+624,79,Female,UK,No,No,Yes,No,Yes
+625,56,Male,UK,No,Yes,No,No,Yes
+626,23,Male,UK,Yes,Yes,No,No,Yes
+627,64,Female,UK,No,No,No,No,Yes
+628,52,Male,UK,No,No,No,Yes,Yes
+629,43,Female,UK,Yes,No,No,No,Yes
+630,58,Male,UK,No,Yes,No,Yes,Yes
+631,42,Female,UK,Yes,No,Yes,No,Yes
+632,74,Male,UK,Yes,No,No,No,Yes
+633,40,Female,UK,Yes,No,No,Yes,No
+634,53,Female,UK,No,No,No,No,No
+635,63,Male,UK,No,Yes,No,Yes,Yes
+636,20,Female,UK,Yes,Yes,No,Yes,No
+637,69,Male,UK,Yes,Yes,No,Yes,Yes
+638,20,Female,UK,Yes,Yes,Yes,Yes,Yes
+639,46,Male,UK,No,Yes,Yes,No,No
+640,75,Female,UK,No,No,No,Yes,Yes
+641,62,Male,UK,Yes,No,No,No,No
+642,39,Female,UK,No,No,No,No,Yes
+643,63,Male,UK,No,Yes,Yes,Yes,Yes
+644,32,Female,UK,No,Yes,Yes,No,No
+645,64,Male,UK,No,No,Yes,No,No
+646,26,Female,UK,Yes,No,Yes,No,Yes
+647,75,Male,UK,No,No,No,No,Yes
+648,80,Female,UK,Yes,No,Yes,Yes,No
+649,89,Male,UK,Yes,Yes,No,No,No
+650,37,Male,UK,No,No,No,No,Yes
+651,66,Female,UK,Yes,Yes,No,Yes,Yes
+652,31,Female,UK,No,No,Yes,Yes,No
+653,68,Male,UK,Yes,No,Yes,Yes,Yes
+654,71,Male,UK,Yes,Yes,Yes,Yes,No
+655,30,Female,UK,No,No,Yes,Yes,No
+656,77,Male,UK,Yes,Yes,Yes,Yes,Yes
+657,62,,UK,Yes,No,Yes,No,Yes
+658,59,Male,UK,No,Yes,Yes,Yes,Yes
+659,86,Female,UK,Yes,Yes,No,No,No
+660,25,Male,UK,Yes,No,No,Yes,No
+661,70,Female,UK,No,Yes,Yes,Yes,No
+662,43,Female,UK,No,Yes,Yes,Yes,Yes
+663,79,Male,UK,Yes,Yes,No,Yes,Yes
+664,42,Female,UK,No,Yes,No,No,Yes
+665,58,Male,UK,No,Yes,No,Yes,Yes
+666,40,Female,UK,No,No,No,No,No
+667,76,Male,UK,Yes,Yes,Yes,Yes,No
+668,58,Female,UK,No,Yes,No,No,Yes
+669,43,Male,UK,No,No,Yes,Yes,Yes
+670,77,Female,UK,No,Yes,No,Yes,No
+671,80,Male,UK,Yes,No,No,No,Yes
+672,70,Female,UK,Yes,Yes,Yes,No,No
+673,67,Male,UK,No,Yes,No,No,Yes
+674,75,Female,UK,Yes,No,Yes,No,No
+675,59,Male,UK,No,Yes,Yes,Yes,Yes
+676,60,Female,UK,Yes,No,Yes,No,No
+677,44,Male,UK,No,Yes,No,No,Yes
+678,68,Male,UK,Yes,Yes,No,No,Yes
+679,73,Female,UK,No,No,No,No,No
+680,50,Female,UK,No,Yes,No,Yes,Yes
+681,29,Male,UK,Yes,Yes,Yes,No,No
+682,45,Male,UK,No,No,No,Yes,No
+683,66,Female,UK,Yes,No,Yes,No,Yes
+684,77,Male,UK,Yes,No,Yes,No,Yes
+685,76,Female,UK,No,No,Yes,Yes,No
+686,51,Male,UK,No,Yes,Yes,Yes,No
+687,41,Female,UK,Yes,Yes,No,Yes,No
+688,67,Male,UK,Yes,No,Yes,No,Yes
+689,72,Female,UK,Yes,No,Yes,Yes,No
+690,65,Female,UK,Yes,No,Yes,No,No
+691,61,Male,UK,Yes,Yes,No,Yes,No
+692,50,Female,UK,Yes,Yes,No,Yes,Yes
+693,19,Male,UK,Yes,Yes,Yes,No,Yes
+694,33,Female,UK,No,No,Yes,No,No
+695,18,Male,UK,No,No,No,No,Yes
+696,52,Female,UK,Yes,No,No,Yes,No
+697,31,Male,UK,No,Yes,No,Yes,Yes
+698,43,Female,UK,No,No,No,Yes,Yes
+699,88,Male,UK,Yes,Yes,No,No,No
+700,41,Female,UK,No,No,Yes,No,No
+701,79,Male,UK,Yes,Yes,No,No,Yes
+702,48,Female,UK,Yes,No,No,Yes,No
+703,79,Male,UK,No,Yes,Yes,No,No
+704,69,Female,UK,Yes,Yes,No,No,No
+705,67,Male,UK,No,Yes,Yes,No,Yes
+706,76,Male,UK,Yes,No,Yes,Yes,No
+707,79,Female,UK,Yes,Yes,Yes,No,Yes
+708,33,Female,UK,Yes,Yes,No,Yes,No
+709,82,Male,UK,Yes,No,Yes,Yes,No
+710,42,Male,UK,Yes,Yes,Yes,Yes,Yes
+711,25,Female,UK,Yes,No,Yes,No,No
+712,65,Male,UK,Yes,No,Yes,Yes,No
+713,46,Female,UK,No,No,Yes,No,Yes
+714,51,Male,UK,No,Yes,Yes,Yes,No
+715,24,Female,UK,Yes,Yes,Yes,Yes,Yes
+716,66,Male,UK,No,No,No,Yes,Yes
+717,30,Female,UK,Yes,No,Yes,Yes,No
+718,57,Female,UK,No,Yes,Yes,Yes,Yes
+719,28,Male,uk,No,Yes,No,Yes,Yes
+720,74,Female,uk,Yes,Yes,Yes,No,Yes
+721,37,Male,UK,Yes,Yes,No,No,No
+722,29,Female,UK,No,Yes,No,Yes,No
+723,87,Male,UK,No,Yes,No,Yes,Yes
+724,88,Female,UK,No,Yes,Yes,No,No
+725,21,Male,UK,No,No,No,No,No
+726,32,Female,UK,Yes,No,Yes,No,No
+727,51,Male,UK,No,Yes,No,Yes,Yes
+728,37,Female,UK,No,No,No,No,Yes
+729,35,Male,UK,Yes,No,No,No,Yes
+730,53,Female,UK,Yes,No,Yes,No,Yes
+731,30,Male,UK,No,No,No,Yes,No
+732,74,Female,UK,No,Yes,No,No,No
+733,46,Male,UK,Yes,No,Yes,Yes,Yes
+734,68,Male,UK,Yes,Yes,Yes,Yes,Yes
+735,44,Female,UK,No,No,No,Yes,Yes
+736,26,Female,UK,Yes,No,Yes,No,Yes
+737,70,Male,UK,Yes,Yes,Yes,No,Yes
+738,56,Male,UK,No,Yes,No,Yes,Yes
+739,58,Female,UK,Yes,Yes,No,Yes,No
+740,86,Male,UK,No,Yes,Yes,No,Yes
+741,83,Female,UK,No,No,Yes,No,Yes
+742,88,Male,UK,Yes,No,Yes,No,Yes
+743,23,Female,UK,No,No,No,Yes,No
+744,90,Male,UK,Yes,No,No,Yes,No
+745,85,Female,UK,No,Yes,Yes,Yes,No
+746,68,Female,UK,Yes,Yes,Yes,No,Yes
+747,32,Male,UK,Yes,No,No,No,No
+748,40,Female,UK,No,Yes,No,No,Yes
+749,56,Male,UK,No,No,Yes,Yes,No
+750,80,Female,UK,Yes,No,No,No,Yes
+751,64,Male,UK,No,Yes,Yes,No,No
+752,33,Female,UK,No,Yes,Yes,Yes,Yes
+753,76,Male,UK,Yes,Yes,Yes,Yes,Yes
+754,30,Female,UK,No,No,No,Yes,No
+755,39,Male,UK,No,No,Yes,Yes,No
+756,25,Female,UK,No,No,Yes,Yes,Yes
+757,68,Male,UK,Yes,No,Yes,No,Yes
+758,30,Female,UK,Yes,No,No,Yes,No
+759,58,Male,UK,Yes,Yes,Yes,Yes,No
+760,27,Female,UK,Yes,Yes,No,Yes,Yes
+761,32,Male,UK,Yes,No,No,Yes,No
+762,50,Male,UK,No,No,Yes,Yes,No
+763,18,,UK,Yes,Yes,No,Yes,No
+764,58,Female,UK,No,Yes,No,Yes,No
+765,87,Male,UK,No,No,No,No,No
+766,87,Male,United Kingdom,Yes,No,No,No,No
+767,44,Female,UK,No,Yes,No,Yes,Yes
+768,39,Male,UK,No,Yes,No,No,No
+769,87,Female,UK,Yes,Yes,No,Yes,Yes
+770,27,Male,UK,Yes,Yes,No,Yes,No
+771,72,Female,UK,Yes,Yes,Yes,No,Yes
+772,77,Male,UK,Yes,No,No,Yes,Yes
+773,44,Female,UK,No,No,Yes,Yes,Yes
+774,84,Female,UK,Yes,Yes,No,No,Yes
+775,88,Male,UK,Yes,No,No,No,No
+776,77,Female,UK,No,Yes,Yes,No,Yes
+777,26,Male,UK,Yes,Yes,Yes,No,No
+778,30,Female,UK,Yes,No,Yes,Yes,No
+779,81,Male,UK,Yes,No,No,Yes,No
+780,47,Female,UK,Yes,Yes,Yes,Yes,Yes
+781,76,Male,UK,No,No,No,No,No
+782,82,Female,UK,Yes,No,Yes,No,Yes
+783,79,Male,UK,Yes,Yes,Yes,No,Yes
+784,44,Female,UK,Yes,Yes,Yes,Yes,No
+785,81,Male,UK,No,No,Yes,No,Yes
+786,58,Female,UK,Yes,No,Yes,Yes,No
+787,29,Male,UK,No,Yes,Yes,No,Yes
+788,55,Female,UK,Yes,Yes,Yes,Yes,Yes
+789,66,Male,UK,Yes,No,No,No,Yes
+790,67,Male,UK,No,No,Yes,No,No
+791,24,Female,UK,Yes,No,No,Yes,No
+792,46,Female,UK,No,No,No,No,No
+793,27,Male,UK,No,Yes,No,No,No
+794,86,Male,UK,No,Yes,No,No,No
+795,80,Female,UK,Yes,No,Yes,Yes,Yes
+796,89,Male,UK,No,Yes,No,No,No
+797,59,Female,UK,Yes,No,Yes,Yes,Yes
+798,90,Male,UK,No,Yes,Yes,Yes,No
+799,52,Female,UK,Yes,Yes,Yes,No,No
+800,73,Male,UK,Yes,Yes,Yes,No,Yes
+801,41,Female,UK,Yes,Yes,Yes,Yes,Yes
+802,81,Female,UK,No,No,No,No,Yes
+803,50,Male,UK,No,No,Yes,Yes,No
+804,33,Female,UK,Yes,No,Yes,Yes,Yes
+805,31,Male,UK,Yes,Yes,Yes,No,No
+806,52,Female,UK,Yes,No,No,No,No
+807,46,Male,UK,No,No,No,No,Yes
+808,33,Female,UK,Yes,Yes,Yes,Yes,Yes
+809,28,Male,UK,No,No,No,Yes,No
+810,42,Female,UK,No,Yes,No,No,No
+811,50,Male,UK,Yes,Yes,No,No,Yes
+812,40,Female,UK,No,Yes,No,Yes,No
+813,63,Male,UK,Yes,No,No,No,No
+814,44,Female,UK,Yes,Yes,No,No,No
+815,71,Male,UK,No,Yes,Yes,No,No
+816,39,Female,UK,No,Yes,Yes,Yes,No
+817,54,Male,UK,No,Yes,Yes,No,Yes
+818,19,Male,UK,Yes,Yes,No,No,No
+819,75,Female,UK,No,No,Yes,Yes,No
+820,87,Female,UK,No,Yes,Yes,Yes,No
+821,56,Male,UK,Yes,Yes,No,Yes,Yes
+822,34,Male,UK,No,Yes,Yes,Yes,Yes
+823,79,Female,UK,No,No,Yes,No,No
+824,68,Male,UK,Yes,No,No,Yes,Yes
+825,50,Female,UK,Yes,No,Yes,No,Yes
+826,23,Male,UK,No,Yes,Yes,Yes,No
+827,57,Female,UK,No,No,No,Yes,No
+828,81,Male,UK,Yes,Yes,No,Yes,No
+829,88,Female,UK,Yes,Yes,No,Yes,No
+830,50,Female,UK,No,No,Yes,Yes,No
+831,75,Male,UK,Yes,Yes,No,Yes,No
+832,18,Female,UK,No,No,No,Yes,No
+833,70,Male,UK,No,No,No,No,Yes
+834,61,Female,UK,Yes,Yes,Yes,Yes,Yes
+835,83,Male,UK,Yes,Yes,Yes,Yes,No
+836,38,Female,UK,Yes,,Yes,No,Yes
+837,34,Male,UK,Yes,Yes,No,No,Yes
+838,54,Female,UK,Yes,Yes,Yes,Yes,Yes
+839,34,Male,UK,No,No,Yes,No,Yes
+840,86,Female,UK,No,Yes,No,No,No
+841,28,Male,UK,Yes,Yes,No,Yes,No
+842,42,Female,UK,Yes,No,No,Yes,No
+843,66,Male,UK,Yes,No,No,Yes,Yes
+844,20,Female,UK,No,Yes,No,No,No
+845,75,Male,UK,No,Yes,No,No,No
+846,68,Male,UK,No,No,Yes,No,Yes
+847,85,Female,UK,No,Yes,No,Yes,Yes
+848,81,Female,UK,Yes,No,No,No,No
+849,55,Male,UK,Yes,Yes,No,No,No
+850,25,Male,UK,Yes,No,Yes,Yes,No
+851,34,Female,UK,No,No,Yes,No,Yes
+852,50,Male,UK,No,No,No,No,Yes
+853,81,Female,UK,Yes,Yes,Yes,Yes,Yes
+854,63,Male,UK,Yes,Yes,No,No,Yes
+855,60,Female,UK,No,Yes,Yes,Yes,Yes
+856,37,Male,UK,No,Yes,Yes,Yes,Yes
+857,20,Female,UK,Yes,No,Yes,Yes,Yes
+858,53,Female,UK,Yes,No,,Yes,Yes
+859,39,Male,UK,No,No,No,No,No
+860,70,Female,UK,Yes,Yes,No,Yes,No
+861,88,Male,UK,Yes,Yes,No,Yes,Yes
+862,53,Female,UK,No,Yes,Yes,Yes,No
+863,45,Male,UK,Yes,No,Yes,Yes,Yes
+864,63,Female,UK,No,No,No,No,Yes
+865,18,Male,UK,No,Yes,Yes,Yes,Yes
+866,63,Female,UK,Yes,Yes,No,Yes,No
+867,62,Male,UK,Yes,No,No,Yes,No
+868,59,Female,UK,No,Yes,No,Yes,No
+869,76,Male,UK,Yes,No,Yes,No,Yes
+870,27,Female,UK,No,No,No,No,No
+871,64,,UK,Yes,Yes,No,Yes,No
+872,80,,UK,Yes,No,Yes,Yes,No
+873,71,Male,UK,Yes,Yes,Yes,No,No
+874,18,Male,UK,No,Yes,No,Yes,No
+875,40,Female,UK,Yes,No,Yes,No,No
+876,70,Female,UK,Yes,Yes,No,Yes,Yes
+877,37,Male,UK,No,No,Yes,No,No
+878,62,Male,UK,No,Yes,No,Yes,Yes
+879,54,Female,UK,Yes,Yes,Yes,Yes,Yes
+880,61,Male,UK,No,No,Yes,Yes,Yes
+881,87,Female,UK,Yes,No,No,,Yes
+882,86,Male,UK,Yes,No,No,Yes,No
+883,24,Female,UK,Yes,No,Yes,No,Yes
+884,30,Male,UK,Yes,Yes,No,No,Yes
+885,25,Female,UK,Yes,Yes,No,No,Yes
+886,24,Female,UK,No,Yes,No,No,Yes
+887,77,Male,UK,No,Yes,Yes,Yes,No
+888,66,Female,UK,No,No,Yes,No,Yes
+889,75,Male,UK,No,Yes,Yes,No,Yes
+890,20,Female,UK,Yes,No,No,Yes,Yes
+891,47,Male,UK,No,No,No,No,Yes
+892,23,Female,UK,Yes,Yes,No,Yes,No
+893,35,Male,UK,Yes,Yes,No,Yes,Yes
+894,23,Female,UK,Yes,No,No,Yes,No
+895,55,Male,uk,Yes,Yes,No,Yes,No
+896,73,Female,UK,Yes,No,No,No,No
+897,25,Male,UK,No,No,No,No,No
+898,44,Female,UK,No,No,Yes,No,Yes
+899,89,Male,UK,Yes,No,Yes,No,No
+900,18,Female,UK,No,Yes,Yes,Yes,No
+901,88,Male,UK,No,No,No,No,Yes
+902,19,Male,UK,Yes,Yes,Yes,No,No
+903,50,Female,UK,No,Yes,Yes,No,Yes
+904,73,Female,UK,No,Yes,Yes,No,Yes
+905,34,Male,UK,No,No,No,No,Yes
+906,81,Male,UK,Yes,Yes,No,No,Yes
+907,33,Female,UK,No,Yes,No,Yes,No
+908,33,Male,UK,Yes,Yes,Yes,Yes,No
+909,27,Female,UK,No,Yes,Yes,No,Yes
+910,73,Male,UK,Yes,No,No,No,No
+911,58,Female,UK,Yes,Yes,No,Yes,No
+912,25,Male,UK,Yes,Yes,No,No,Yes
+913,87,Female,UK,No,Yes,No,No,Yes
+914,54,Female,UK,Yes,Yes,Yes,Yes,Yes
+915,90,Male,UK,Yes,,Yes,No,No
+916,74,Female,UK,Yes,Yes,No,Yes,Yes
+917,40,Male,UK,Yes,Yes,Yes,No,No
+918,81,Female,UK,Yes,Yes,No,Yes,No
+919,88,Male,UK,Yes,Yes,Yes,Yes,No
+920,73,Female,UK,No,No,No,Yes,Yes
+921,44,Male,UK,No,Yes,Yes,Yes,No
+922,77,Female,UK,No,Yes,No,Yes,No
+923,69,Male,UK,No,Yes,Yes,No,Yes
+924,44,Female,United Kingdom,No,Yes,No,No,No
+925,24,Male,UK,Yes,No,No,No,No
+926,61,Female,UK,No,No,No,Yes,No
+927,56,Male,UK,No,Yes,Yes,Yes,No
+928,38,Female,UK,Yes,Yes,Yes,Yes,No
+929,56,Male,UK,No,Yes,No,No,No
+930,75,Male,UK,No,Yes,No,Yes,No
+931,44,Female,UK,Yes,No,Yes,Yes,No
+932,28,Female,UK,Yes,No,Yes,Yes,No
+933,75,Male,UK,No,No,No,No,Yes
+934,52,Male,UK,No,No,No,No,Yes
+935,51,Female,UK,No,Yes,No,No,Yes
+936,59,Male,UK,Yes,No,No,Yes,No
+937,64,Female,UK,Yes,Yes,No,Yes,Yes
+938,87,Male,UK,No,Yes,Yes,Yes,Yes
+939,80,Female,UK,Yes,No,Yes,Yes,Yes
+940,30,Male,UK,No,Yes,Yes,No,No
+941,89,Female,UK,Yes,Yes,No,No,No
+942,58,Female,UK,Yes,Yes,Yes,No,No
+943,63,Male,UK,Yes,No,Yes,No,Yes
+944,82,Female,UK,No,Yes,Yes,No,No
+945,71,Male,UK,Yes,Yes,Yes,Yes,Yes
+946,42,Female,UK,Yes,Yes,No,Yes,Yes
+947,18,Male,UK,No,Yes,Yes,Yes,Yes
+948,42,Female,UK,Yes,No,No,Yes,No
+949,48,Male,UK,Yes,No,No,No,Yes
+950,35,Female,UK,No,No,No,No,Yes
+951,70,Male,UK,No,No,No,No,No
+952,68,Female,UK,No,Yes,Yes,No,No
+953,48,Male,UK,No,Yes,Yes,No,No
+954,54,Female,UK,No,Yes,No,No,No
+955,51,Male,UK,No,Yes,Yes,Yes,Yes
+956,84,Female,UK,Yes,Yes,No,Yes,Yes
+957,37,Male,UK,Yes,No,Yes,No,No
+958,54,Male,UK,Yes,Yes,No,No,No
+959,40,Female,UK,No,Yes,No,No,No
+960,57,Female,UK,No,No,Yes,No,Yes
+961,60,Male,UK,Yes,No,Yes,Yes,No
+962,39,Male,UK,Yes,Yes,No,No,Yes
+963,53,Female,UK,No,Yes,Yes,No,Yes
+964,44,Male,UK,No,Yes,No,No,No
+965,24,Female,UK,Yes,No,No,No,Yes
+966,28,Male,UK,Yes,Yes,No,Yes,Yes
+967,19,Female,UK,No,Yes,No,No,No
+968,43,Male,UK,No,No,No,No,No
+969,71,Female,UK,No,No,No,Yes,Yes
+970,78,Female,UK,,Yes,Yes,No,No
+971,24,Male,UK,No,Yes,Yes,No,Yes
+972,59,Female,UK,No,Yes,Yes,No,Yes
+973,78,Male,UK,Yes,Yes,Yes,Yes,No
+974,50,Female,UK,No,Yes,Yes,No,No
+975,24,Male,UK,Yes,No,No,Yes,No
+976,44,Female,UK,No,No,Yes,No,No
+977,38,Male,UK,Yes,Yes,No,Yes,Yes
+978,42,Female,UK,Yes,No,Yes,No,No
+979,36,Male,UK,Yes,No,Yes,Yes,No
+980,73,Female,UK,No,Yes,Yes,No,Yes
+981,58,Male,UK,Yes,No,No,Yes,No
+982,56,Female,UK,No,No,Yes,Yes,Yes
+983,37,Male,UK,Yes,Yes,Yes,Yes,No
+984,86,Female,UK,Yes,Yes,No,No,No
+985,31,Male,UK,No,No,Yes,Yes,No
+986,80,Male,UK,No,Yes,Yes,No,No
+987,65,Female,UK,Yes,No,Yes,Yes,No
+988,36,Female,UK,Yes,Yes,No,No,No
+989,68,Male,UK,No,No,Yes,Yes,Yes
+990,66,Male,UK,No,Yes,Yes,Yes,Yes
+991,62,Female,UK,Yes,No,No,Yes,No
+992,50,Male,UK,Yes,Yes,Yes,,Yes
+993,75,Female,UK,No,Yes,Yes,Yes,No
+994,87,Male,UK,No,No,No,No,No
+995,19,Female,UK,Yes,Yes,No,No,No
+996,43,Male,UK,No,No,No,Yes,No
+997,50,Female,UK,No,No,Yes,No,Yes
+998,74,Female,UK,Yes,No,No,Yes,No
+999,23,Male,UK,No,Yes,No,Yes,No
+1000,77,Female,UK,Yes,No,No,No,No
